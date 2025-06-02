@@ -1,0 +1,6 @@
+A loops means to repeat something in the exact way.
+Types of loops:
+1.For loop
+2.While loops
+3.While True 
+4.nested loop 
