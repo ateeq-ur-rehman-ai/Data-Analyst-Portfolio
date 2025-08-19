@@ -1,0 +1,16 @@
+ID,Name,Age,City,Salary
+1,,30,Lahore,70000
+2,Maria,22,Multan,70000
+3,Usman,22,Multan,
+4,,28,Multan,40000
+5,Ahmed,28,Multan,
+6,Usman,25,,
+7,Usman,30,Islamabad,40000
+8,,30,Karachi,40000
+9,Sana,,Multan,40000
+10,Ahmed,,Lahore,40000
+11,,,Multan,70000
+12,Ahmed,28,Lahore,
+13,Ahmed,30,,60000
+14,Usman,,Multan,40000
+15,Maria,22,,60000
